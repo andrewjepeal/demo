@@ -4,4 +4,5 @@
 <testsuite:testsuite xmlns:testsuite="http://www.compuware.com/model/xml/testsuite" id="Unit%20Test/Suites/CWXTSUBC.testsuite">
   <testsuite:testscenario>../Scenarios/CWXTSUBC_Scenario.testscenario#Unit%20Test/Scenarios/CWXTSUBC_Scenario.testscenario</testsuite:testscenario>
   <testsuite:testscenario>../Scenarios/CWXTSUBC__2Scenario.testscenario#Unit%20Test/Scenarios/CWXTSUBC__2Scenario.testscenario</testsuite:testscenario>
+  <testsuite:testscenario>../Scenarios/CWXTCB01_Scenario.testscenario#Unit%20Test/Scenarios/CWXTCB01_Scenario.testscenario</testsuite:testscenario>
 </testsuite:testsuite>

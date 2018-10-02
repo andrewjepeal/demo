@@ -55,7 +55,7 @@
           <checkconditions:expectation assert="=" type="number">1000.01</checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
