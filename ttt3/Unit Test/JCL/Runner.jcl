@@ -10,7 +10,7 @@
 //*
 //* You need to modify the following DD statements.
 //*
-//* The first DD statement should be changed to the loadlib 
+//* The hirst DD statement should be changed to the loadlib 
 //* containing the Topaz for Total Test 'TTTRUNNR" program.
 //*
 //* The second DD statement should be changed to the loadlib
